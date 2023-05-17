@@ -1,0 +1,27 @@
+.antp1{
+    color: rgb(85, 116, 103); 
+    text-align-last: center;
+ }
+ .antp2{
+    
+    text-align-last: center;
+    font-size: 18pt;
+ }
+ .mot{
+    color: rgb(24, 185, 110); 
+ }
+
+ .logos {
+   height: 30px;
+ }
+
+ .mecanic {
+   height: 120px;
+ }
+ .trans{
+   color: rgb(78, 87, 80);
+ }
+ .faq{
+  color: rgb(208, 255, 0);
+  font-size: 16pt;
+ }
